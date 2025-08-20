@@ -1,4 +1,6 @@
-<h3> Hi! Welcome to my Github</h3>
+<h1> Hi! Welcome to my Github</h1>
+
+<p> I really happy for you here, my friend :3 </p>
 
 <div>
    <a href="https://github.com/Ruh-S2">
